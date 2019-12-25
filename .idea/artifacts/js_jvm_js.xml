@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="js-jvm-js">
+    <output-path>H:\Projects\kotlin-multiplatform\build\libs</output-path>
+    <root id="archive" name="js-jvm-js.jar" />
+  </artifact>
+</component>
